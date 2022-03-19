@@ -1,0 +1,32 @@
+@{
+    ViewData["Title"] = "Calculadora Web";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form method="post">
+    <div>
+        <label >Numero 1</label>
+        <input type="text" class="form-control col-4" name="a">
+    </div>
+    <div>
+        <label >Numero 2</label>
+        <input type="text" class="form-control col-4" name="b">
+    </div>
+    <div class = "my-2">
+        <select class="form-select" aria-label="Default select example" name = "c">
+        <option selected>Operacion</option>
+        <option value="1">Suma</option>
+        <option value="2">Resta</option>
+        <option value="3">Multiplicación</option>
+        <option value="4">División</option>
+    </select>
+    </div>
+    
+
+    <button class="btn btn-primary mt-2" action="Calcular">Calcular</button>
+</form>
+
+
+<div>
+    <p class="mt-2">El resultado de la operacion es:  @ViewBag.resul</p>
+</div>

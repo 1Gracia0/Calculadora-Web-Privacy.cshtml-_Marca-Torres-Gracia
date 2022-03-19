@@ -1,0 +1,80 @@
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\bin\Debug\net5.0\appsettings.json
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\bin\Debug\net5.0\sum.exe
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\bin\Debug\net5.0\sum.deps.json
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\bin\Debug\net5.0\sum.runtimeconfig.json
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\bin\Debug\net5.0\sum.runtimeconfig.dev.json
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\bin\Debug\net5.0\sum.dll
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\bin\Debug\net5.0\ref\sum.dll
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\bin\Debug\net5.0\sum.pdb
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\bin\Debug\net5.0\sum.Views.dll
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\bin\Debug\net5.0\sum.Views.pdb
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.csproj.AssemblyReference.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.AssemblyInfoInputs.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.AssemblyInfo.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.csproj.CoreCompileInputs.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.RazorAssemblyInfo.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.RazorAssemblyInfo.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\staticwebassets\sum.StaticWebAssets.Manifest.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\staticwebassets\sum.StaticWebAssets.xml
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\scopedcss\bundle\sum.styles.css
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.TagHelpers.input.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.TagHelpers.output.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.RazorCoreGenerate.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.RazorTargetAssemblyInfo.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.RazorTargetAssemblyInfo.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.Views.pdb
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.dll
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\ref\sum.dll
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.pdb
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.genruntimeconfig.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Operaciones\obj\Debug\net5.0\sum.csproj.CopyComplete
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\bin\Debug\net5.0\appsettings.json
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\bin\Debug\net5.0\sum.exe
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\bin\Debug\net5.0\sum.deps.json
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\bin\Debug\net5.0\sum.runtimeconfig.json
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\bin\Debug\net5.0\sum.runtimeconfig.dev.json
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\bin\Debug\net5.0\sum.dll
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\bin\Debug\net5.0\ref\sum.dll
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\bin\Debug\net5.0\sum.pdb
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\bin\Debug\net5.0\sum.Views.dll
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\bin\Debug\net5.0\sum.Views.pdb
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.csproj.AssemblyReference.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.AssemblyInfoInputs.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.AssemblyInfo.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.csproj.CoreCompileInputs.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.RazorAssemblyInfo.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.RazorAssemblyInfo.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\staticwebassets\sum.StaticWebAssets.Manifest.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\staticwebassets\sum.StaticWebAssets.xml
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\scopedcss\bundle\sum.styles.css
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.TagHelpers.input.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.TagHelpers.output.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.RazorCoreGenerate.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.RazorTargetAssemblyInfo.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.RazorTargetAssemblyInfo.cs
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.Views.pdb
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.dll
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\ref\sum.dll
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.pdb
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.genruntimeconfig.cache
+C:\Users\marca\OneDrive\Escritorio\USMP\07 CICLO VII 2022-1\Programación I\Calculadora Web(Privacy.cshtml)_Marca Torres Gracia\obj\Debug\net5.0\sum.csproj.CopyComplete
